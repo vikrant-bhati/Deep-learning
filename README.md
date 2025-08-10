@@ -98,6 +98,7 @@ Path: `CNNs/Comprehensive_comparision_CNNs/`
   - Model definitions for Base CNN, Local & Global Soft Attention, Hard Attention, and ODConv.
   - Training pipelines for classification, segmentation, and time series tasks.
   - Evaluation scripts for mIoU, accuracy, and FLOPs computation.
+  
 ---
 
 ## 🎯 Goals of the Project
@@ -169,5 +170,8 @@ This project leverages a combination of **programming languages**, **frameworks*
 - **VS Code** — Main code editor.
 - **Google Colab** — Cloud-based GPU acceleration for model training.
 
+<a href="https://vikrant-bhati.github.io/Deep-learning/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Website-0b5fff?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit Website">
+</a>
 
 
